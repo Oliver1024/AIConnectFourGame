@@ -1,7 +1,3 @@
-'''
-Jingyi Mao
-https://github.ccs.neu.edu/CS-5001-SEA-Spring2021/student-JingyiMao/tree/master/hw12/connect_four_part2
-'''
 from game_controller import GameController
 
 SPACE = {'w': 700, 'h': 700}
